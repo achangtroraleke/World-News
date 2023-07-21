@@ -188,3 +188,17 @@ section{
   animation-fill-mode: forwards;
 }
 
+@media (max-width:1000px){
+  .article-card{
+    flex-direction: column;
+  }
+  .article-img{
+    max-width: 100%;
+  }
+  .content-box{
+    margin-top: 0px;
+  }
+  .navbar-text{
+    font-size: 2rem;
+  }
+}

@@ -16,7 +16,6 @@ return (
         <div className="container-liquid content-box box-shadow">
             <News country={countryObject}/>
             <Map selectCountryFunction={(x)=>{setCountryObject(x)}} country={countryObject}/>
-        
         </div>
         </main>
     </section>
