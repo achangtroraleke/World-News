@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/World-News/static/css/main.77eef16d.css",
+    "main.js": "/World-News/static/js/main.e6ecf51e.js",
+    "index.html": "/World-News/index.html",
+    "main.77eef16d.css.map": "/World-News/static/css/main.77eef16d.css.map",
+    "main.e6ecf51e.js.map": "/World-News/static/js/main.e6ecf51e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77eef16d.css",
+    "static/js/main.e6ecf51e.js"
+  ]
+}
